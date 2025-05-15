@@ -37,7 +37,7 @@ The dataset used is a CSV file containing the following fields:
     - Female customers have higher purchasing power compared to males.
 
 2. Age Group Analysis:
-    - Married Women (26-35 years years) contribute significantly to sales.
+    - Married Women (26-35 years) contribute significantly to sales.
     - Middle-aged groups show high purchasing activity.
 
 3. City-wise Performance:
